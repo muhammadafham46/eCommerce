@@ -304,7 +304,7 @@ This project is created for educational purposes as part of the DevelopersHub Fr
 
 ## 🔗 Live Demo
 
-🌐 **[View Live Website](your-github-pages-url)**
+🌐 **[View Live Website](https://muhammadafham46.github.io/eCommerce/)**
 
 ---
 
