@@ -282,7 +282,7 @@ This project was developed as part of an internship assignment. For suggestions 
 
 For questions about this project or the internship program:
 
-- **Email:** [Email me](muhammadafhamsethar@gmail.com)
+- **Email:** muhammadafhamsethar@gmail.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/muhammadafham46/)
 - **GitHub:** [GitHub Profile](https://github.com/muhammadafham46)
 
